@@ -41,3 +41,22 @@ class DemoConfig(AppConfig):
 
     def ready(self):
         post_migrate.connect(setup_dummy_social_apps, sender=self)
+
+
+
+wef
+ew
+fewf
+memoryview
+
+
+wefe
+w
+ew
+filter(ewf
+       ew
+
+
+
+we
+f)
