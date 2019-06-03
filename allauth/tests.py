@@ -13,6 +13,12 @@ from allauth.compat import base36_to_int, int_to_base36
 
 from . import utils
 
+were
+wr
+wer
+ew
+rew
+r
 
 try:
     from unittest.mock import Mock, patch
